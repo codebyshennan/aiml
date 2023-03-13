@@ -1,0 +1,12 @@
+[submodule "samesamebutdifferent"]
+	path = samesamebutdifferent
+	url = https://github.com/codebyshennan/samesamebutdifferent.git
+[submodule "GPT3-hfchat"]
+	path = GPT3-hfchat
+	url = https://github.com/codebyshennan/GPT3-hfchat.git
+[submodule "survive_EDAMLP"]
+	path = survive_EDAMLP
+	url = https://github.com/codebyshennan/survive_EDAMLP.git
+[submodule "submission_AIAP13"]
+	path = submission_AIAP13
+	url = https://github.com/codebyshennan/submission_AIAP13.git
